@@ -5,7 +5,7 @@
 <h1 style="text-align:center; font-family:'Anton',sans-serif; letter-spacing:0.5;">Hi I'm Jeancarlos Atoche Pascual</h1>
 
 <h2 style="text-align:center; font-family:'Anton',sans-serif;">Web Developer </h2>
-<img style="width:100%" src="https://i.imgur.com/hcGccsB.png">
+<img style="width:100%" src="https://i.imgur.com/xi3CJkz.png">
 
 <br>
 
